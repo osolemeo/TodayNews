@@ -25,7 +25,7 @@ const Subtitle = styled.p`
 const Header = () => {
   return (
     <HeaderContainer>
-      <Title>카드라 뉴스.</Title>
+      <Title>카드라 뉴스</Title>
       <Subtitle>카드뉴스를 통해 최신 뉴스를 확인하세요.</Subtitle>
     </HeaderContainer>
   );
